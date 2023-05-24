@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Alarme</string>
+    <string name="alarm_set"><![CDATA[<resources>\n    <string name=\"app_name\">Alarme</string>\n    <string name=\"alarm_set\">Alarm set for %1$s</string>\n    <!— Outros recursos de string —>\n</resources>\n]]></string>
+    <string name="channel_name">Nome do Canal</string>
+    <string name="channel_description">Descrição do Canal</string>
+
+</resources>
